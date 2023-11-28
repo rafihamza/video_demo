@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821444069621",
+    "project_id": "emaipasword",
+    "storage_bucket": "emaipasword.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821444069621:android:c035886dd7aac67d175dbc",
+        "android_client_info": {
+          "package_name": "com.example.emai_pasword"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3-yT0yLPqc0MGWlrt_qLBO462oFNoA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
